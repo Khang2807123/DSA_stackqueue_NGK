@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DSA_stackqueue_E3/1.0.0": {
+        "runtime": {
+          "DSA_stackqueue_E3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSA_stackqueue_E3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/nguyengiakhang/DSA_stackqueue_E3/bin/Debug/net10.0/DSA_stackqueue_E3
+/Users/nguyengiakhang/DSA_stackqueue_E3/bin/Debug/net10.0/DSA_stackqueue_E3.deps.json
+/Users/nguyengiakhang/DSA_stackqueue_E3/bin/Debug/net10.0/DSA_stackqueue_E3.runtimeconfig.json
+/Users/nguyengiakhang/DSA_stackqueue_E3/bin/Debug/net10.0/DSA_stackqueue_E3.dll
+/Users/nguyengiakhang/DSA_stackqueue_E3/bin/Debug/net10.0/DSA_stackqueue_E3.pdb
+/Users/nguyengiakhang/DSA_stackqueue_E3/obj/Debug/net10.0/DSA_stackqueue_E3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyengiakhang/DSA_stackqueue_E3/obj/Debug/net10.0/DSA_stackqueue_E3.AssemblyInfoInputs.cache
+/Users/nguyengiakhang/DSA_stackqueue_E3/obj/Debug/net10.0/DSA_stackqueue_E3.AssemblyInfo.cs
+/Users/nguyengiakhang/DSA_stackqueue_E3/obj/Debug/net10.0/DSA_stackqueue_E3.csproj.CoreCompileInputs.cache
+/Users/nguyengiakhang/DSA_stackqueue_E3/obj/Debug/net10.0/DSA_stackqueue_E3.dll
+/Users/nguyengiakhang/DSA_stackqueue_E3/obj/Debug/net10.0/refint/DSA_stackqueue_E3.dll
+/Users/nguyengiakhang/DSA_stackqueue_E3/obj/Debug/net10.0/DSA_stackqueue_E3.pdb
+/Users/nguyengiakhang/DSA_stackqueue_E3/obj/Debug/net10.0/DSA_stackqueue_E3.genruntimeconfig.cache
+/Users/nguyengiakhang/DSA_stackqueue_E3/obj/Debug/net10.0/ref/DSA_stackqueue_E3.dll
